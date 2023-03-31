@@ -61,7 +61,7 @@ public class A1103328_0324_1 {
                 y = Double.parseDouble(input);
             }
             double distance = animal.distance(x, y);
-            System.out.println(animal.getName() + "'s distance is " + distance + "m.");
+            System.out.println(animal.getName() + "的距離是" + distance + "米。");
             System.out.println();
         }
     }
